@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vikyath</h1>
 <h3 align="center">A Computer Science student from UC Santa Cruz</h3>
 
-- 🔭 I’m currently working on **LLM neural networks**
+- 🔭 I’m currently working on **Image Captioning using LLMs and CNNs**
 
 - 🌱 I’m currently learning **Deep Learning in AI, System Design, and Analysis of Algorithms**
 
