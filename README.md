@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Image Captioning using LLMs and CNNs**
 
-- 🌱 I’m currently learning **Deep Learning in AI, System Design, and Analysis of Algorithms**
+- 🌱 I’m currently learning **Deep Learning in Artificial Intelligence, System Design, and Analysis of Algorithms**
 
 - 💬 Ask me about **Python, SQL, and Java Script**
 
