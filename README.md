@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vikyath</h1>
-<h3 align="center">A Computer Science student from UC Santa Cruz</h3>
+<h3 align="center">A Computer Science undergraduate senior at UC Santa Cruz</h3>
 
 - 🔭 I’m currently working on **Image Captioning using LLMs and CNNs**
 
