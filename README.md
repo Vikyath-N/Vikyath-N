@@ -9,7 +9,7 @@
 
 - 📄 Add me on LinkedIn [https://www.linkedin.com/in/vikyathnaradasi/](https://www.linkedin.com/in/vikyathnaradasi/)
 
-- ⚡ Fun fact **My favorite type of coffee is Americano!**
+- ⚡ Fun fact **My favorite type of coffee is Americano ☕️ !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
