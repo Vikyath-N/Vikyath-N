@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Image Captioning using LLMs and CNNs**
 
-- 🌱 I’m currently learning **Deep Learning in Artificial Intelligence, System Design, and Analysis of Algorithms**
+- 🌱 I’m currently learning: **Deep Learning in Artificial Intelligence, System Design, and Analysis of Algorithms**
 
-- 💬 Ask me about **Python, SQL, and Java Script**
+- 💬 Ask me about **Python, SQL, and JavaScript**
 
 - 📄 Add me on LinkedIn [https://www.linkedin.com/in/vikyathnaradasi/](https://www.linkedin.com/in/vikyathnaradasi/)
 
