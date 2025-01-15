@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Image Captioning using LLMs and CNNs**
 
-- 🌱 I’m currently learning: **Deep Learning and its Applications & Foundations of Artificial Intelligence**
+- 🌱 I’m currently learning: **Multimodal Probabilistic Learning of Human Communication & Analysis of Algorithms**
 
 - 💬 Ask me about **Python, SQL, and JavaScript**
 
